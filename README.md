@@ -13,7 +13,7 @@ Este projeto converte um trecho de um vídeo em um arquivo GIF utilizando o FFmp
 2. Execute o script principal:
 
    ```bash
-   bun run index.ts
+   bun run main.ts
    ```
 
 3. Insira os dados solicitados no terminal:
